@@ -1,0 +1,18 @@
+/*
+ Theme Name:   Twenty Twenty-One Child Theme
+ Theme URI:    
+ Description:  Twenty Twenty-One Child Theme
+ Author:       Jared Thomas
+ Author URI:   http://lucentdigital.co
+ Template:     twentytwentyone
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twentytwentyonechild
+*/
+
+#masthead {
+    min-width:100%; 
+    padding: 10px 20px;
+}
